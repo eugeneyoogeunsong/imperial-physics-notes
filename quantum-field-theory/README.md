@@ -1,6 +1,6 @@
 # 🌊 Quantum Field Theory
 
-Imperial MSc Physics, 2024–25.
+Imperial Masters in Physics, 2024–25.
 
 ## Topics
 
