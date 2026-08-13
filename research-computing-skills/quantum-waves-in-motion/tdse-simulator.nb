@@ -41,7 +41,7 @@ using a finite-domain time-difference method\
 b94661bc530a"],
 
 Cell[TextData[{
- StyleBox["Written by Yoogeun Song (CID: 06032276). This mini-project was \
+ StyleBox["Written by Yoogeun Song. This mini-project was \
 conducted from March 11 to April 1, 2025.",
   FontSize->24,
   FontWeight->"Bold",
