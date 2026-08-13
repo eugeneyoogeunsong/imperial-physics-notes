@@ -11,4 +11,4 @@ Imperial MSc Physics, 2024–25.
 
 ## Contents
 
-Notes to be added.
+- `qft-lecture-notes.pdf` - my typed notes for the course (138 pages).

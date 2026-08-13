@@ -1,6 +1,6 @@
 # 🎓 Imperial Physics Notes
 
-My notes, worked material and computational projects from the MSc Physics at
+My lecture notes and computational projects from the MSc Physics at
 [Imperial College London](https://www.imperial.ac.uk/physics/) (2024–2025).
 One folder per module. Everything here is my own work.
 
@@ -14,7 +14,7 @@ high-energy physics at Imperial, working on neutrinos with
 
 ### [🌀 Advanced Quantum Field Theory](advanced-quantum-field-theory)
 
-Path integrals, renormalisation and the structure of gauge theory:
+227 pages of typed notes covering:
 
 - Functional methods and the generating functional
 - Renormalisation and the renormalisation group
@@ -22,9 +22,18 @@ Path integrals, renormalisation and the structure of gauge theory:
 - Spontaneous symmetry breaking and the Higgs mechanism
 - Anomalies
 
+### [🌊 Quantum Field Theory](quantum-field-theory)
+
+138 pages of typed notes covering:
+
+- Canonical quantisation of scalar, spinor and vector fields
+- The S-matrix, Wick's theorem, Feynman rules
+- Tree-level cross sections and decay rates
+- Loop corrections and regularisation
+
 ### [⚛️ Advanced Particle Physics](advanced-particle-physics)
 
-The Standard Model as an experimental subject:
+94 pages of typed notes covering:
 
 - Electroweak unification and precision tests
 - Quantum chromodynamics, asymptotic freedom, parton distributions
@@ -32,39 +41,9 @@ The Standard Model as an experimental subject:
 - Neutrino masses and oscillations
 - Beyond the Standard Model: the Higgs sector and dark matter
 
-### [🌊 Quantum Field Theory](quantum-field-theory)
-
-- Canonical quantisation of scalar, spinor and vector fields
-- The S-matrix, Wick's theorem, Feynman rules
-- Tree-level cross sections and decay rates
-- Loop corrections and regularisation
-
-### [🌌 General Relativity](general-relativity)
-
-- Differential geometry: manifolds, tensors, covariant derivatives
-- The Einstein field equations
-- Schwarzschild and Kerr solutions
-- Geodesics, horizons and black hole physics
-- Cosmological solutions
-
-### [🎼 Advanced Classical Physics](advanced-classical-physics)
-
-- Lagrangian and Hamiltonian mechanics
-- Canonical transformations, Poisson brackets, action-angle variables
-- Classical field theory and Noether's theorem
-- Relativistic electrodynamics
-
-### [🧮 Mathematical Methods for Physicists](mathematical-methods-for-physicists)
-
-- Vector spaces, tensors and index notation
-- Hilbert spaces and Sturm–Liouville theory
-- Green's functions
-- Integral transforms
-- Calculus of variations
-
 ### [💻 Research Computing Skills for Physicists](research-computing-skills)
 
-Numerical physics in Mathematica and MATLAB. Includes my mini-project,
+Numerical physics in Mathematica and MATLAB. Contains my mini-project,
 **Quantum Waves in Motion**: a finite-difference time-domain solver for the
 time-dependent Schrödinger equation, with animations of wave-packet dispersion,
 reflection and tunnelling across four potentials. Awarded the highest grade.
@@ -76,7 +55,7 @@ reflection and tunnelling across four potentials. Awarded the highest grade.
 ```
 <module>/
   README.md          what the module covered, and what is in the folder
-  *.pdf              typed notes and write-ups
+  *.pdf              typed lecture notes
   *.nb / *.m         Mathematica and MATLAB source
 ```
 

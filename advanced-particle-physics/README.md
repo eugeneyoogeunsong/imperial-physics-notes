@@ -12,4 +12,4 @@ Imperial MSc Physics, 2024–25.
 
 ## Contents
 
-Notes to be added.
+- `app-lecture-notes.pdf` - my typed notes for the course (94 pages).
