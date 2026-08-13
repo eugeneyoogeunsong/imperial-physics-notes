@@ -1,0 +1,29 @@
+# Material staged for a decision, never committed. See README.
+_review-before-publishing/
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+
+# Mathematica / MATLAB
+*.nb.bak
+.Mathematica/
+*.asv
+*.mex*
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
