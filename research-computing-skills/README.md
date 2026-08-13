@@ -1,6 +1,6 @@
 # 💻 Research Computing Skills for Physicists
 
-Imperial MSc Physics, 2024–25. Numerical physics in Mathematica and MATLAB.
+Imperial Masters in Physics, 2024–25. Numerical physics in Mathematica and MATLAB.
 
 ## Quantum Waves in Motion
 
