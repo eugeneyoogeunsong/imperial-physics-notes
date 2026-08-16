@@ -12,4 +12,4 @@ This course was run by [Prof Toby Wiseman](https://profiles.imperial.ac.uk/t.wis
 
 ## Contents
 
-- `qft-lecture-notes.pdf` - my typed notes for the course (138 pages).
+- `qft-lecture-notes.pdf` - my handwritten notes for the course (138 pages).
