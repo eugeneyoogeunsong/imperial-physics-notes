@@ -13,4 +13,4 @@ This course was run by [Dr Michael McCann](https://profiles.imperial.ac.uk/m.mcc
 
 ## Contents
 
-- `app-lecture-notes.pdf` - my typed notes for the course (94 pages).
+- `app-lecture-notes.pdf` - my handwritten notes for the course (94 pages).
