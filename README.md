@@ -14,7 +14,7 @@ high-energy physics at Imperial, working on neutrinos with
 
 ### [🌀 Advanced Quantum Field Theory](advanced-quantum-field-theory)
 
-227 pages of typed notes covering:
+227 pages of handwritten summaries covering:
 
 - Functional methods and the generating functional
 - Renormalisation and the renormalisation group
@@ -24,7 +24,7 @@ high-energy physics at Imperial, working on neutrinos with
 
 ### [🌊 Quantum Field Theory](quantum-field-theory)
 
-138 pages of typed notes covering:
+138 pages of handwritten summaries covering:
 
 - Canonical quantisation of scalar, spinor and vector fields
 - The S-matrix, Wick's theorem, Feynman rules
@@ -33,7 +33,7 @@ high-energy physics at Imperial, working on neutrinos with
 
 ### [⚛️ Advanced Particle Physics](advanced-particle-physics)
 
-94 pages of typed notes covering:
+94 pages of handwritten summaries covering:
 
 - Electroweak unification and precision tests
 - Quantum chromodynamics, asymptotic freedom, parton distributions
@@ -46,8 +46,8 @@ high-energy physics at Imperial, working on neutrinos with
 Numerical physics in Mathematica and MATLAB. Contains my mini-project,
 **Quantum Waves in Motion**: a finite-difference time-domain solver for the
 time-dependent Schrödinger equation, with animations of wave-packet dispersion,
-reflection and tunnelling across four potentials. Awarded the highest grade.
-
+reflection and tunnelling across four potentials. Awarded the highest grade by [Dr Jaroslaw Pasternak](https://profiles.imperial.ac.uk/j.pasternak).
+It also showcases the Runge-Kutta method.
 ---
 
 ## 🗂 Layout
@@ -55,13 +55,13 @@ reflection and tunnelling across four potentials. Awarded the highest grade.
 ```
 <module>/
   README.md          what the module covered, and what is in the folder
-  *.pdf              typed lecture notes
-  *.nb / *.m         Mathematica and MATLAB source
+  *.pdf              handwritten lecture notes
+  *.nb / *.m         Mathematica source
 ```
 
 ## ⚠️ What is not here
 
-This repository contains **only my own writing and code**. It deliberately
+This repository contains **only my own handwriting and code**. It deliberately
 excludes lecture notes, slides, problem sheets and past examination papers
 produced by Imperial College London or by any other institution or author.
 Those remain the copyright of their authors, and redistributing them is not
