@@ -43,12 +43,12 @@ high-energy physics at Imperial, working on neutrinos with
 
 ### [💻 Research Computing Skills for Physicists](research-computing-skills)
 
-**Numerical physics in Mathematica and MATLAB. Contains my mini-project,
+Numerical physics in Mathematica and MATLAB. Contains my mini-project,
 **Quantum Waves in Motion**: a finite-difference time-domain solver for the
 time-dependent Schrödinger equation, with animations of wave-packet dispersion,
 reflection and tunnelling across four potentials. Awarded the highest grade by [Dr Jaroslaw Pasternak](https://profiles.imperial.ac.uk/j.pasternak).
 It also showcases the Runge-Kutta method.
-**---
+---
 
 ## 🗂 Layout
 
