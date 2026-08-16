@@ -1,6 +1,7 @@
 # 🌊 Quantum Field Theory
 
 Imperial Masters in Physics, 2024–25.
+This course was run by [Prof Toby Wiseman](https://profiles.imperial.ac.uk/t.wiseman).
 
 ## Topics
 
