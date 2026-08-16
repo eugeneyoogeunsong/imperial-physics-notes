@@ -1,6 +1,7 @@
 # 🌀 Advanced Quantum Field Theory
 
 Imperial Masters in Physics, 2024–25.
+This course was run by [Prof Andrew Tolley](https://profiles.imperial.ac.uk/a.tolley).
 
 ## Topics
 

@@ -1,6 +1,7 @@
 # ⚛️ Advanced Particle Physics
 
 Imperial Masters in Physics, 2024–25.
+This course was run by [Dr Michael McCann](https://profiles.imperial.ac.uk/m.mccann).
 
 ## Topics
 
