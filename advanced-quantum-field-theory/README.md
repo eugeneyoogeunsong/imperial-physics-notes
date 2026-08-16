@@ -13,4 +13,4 @@ This course was run by [Prof Andrew Tolley](https://profiles.imperial.ac.uk/a.to
 
 ## Contents
 
-- `aqft-lecture-notes.pdf` - my typed notes for the course (227 pages).
+- `aqft-lecture-notes.pdf` - my handwritten notes for the course (227 pages).
