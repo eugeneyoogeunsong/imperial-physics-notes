@@ -1,4 +1,4 @@
-# 💻 Research Computing Skills for Physicists
+# 💻 Computational Physics Mini-Project
 
 Imperial Masters in Physics, 2024–25. Numerical physics in Mathematica and MATLAB.
 This course was run by [Dr Jaroslaw Pasternak](https://profiles.imperial.ac.uk/j.pasternak) and [Dr Martin Archer](https://profiles.imperial.ac.uk/m.archer).
