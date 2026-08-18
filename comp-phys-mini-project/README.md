@@ -1,7 +1,13 @@
 # 💻 Computational Physics Mini-Project
 
-Imperial Masters in Physics, 2024–25. Numerical physics in Mathematica and MATLAB.
-This course was run by [Dr Jaroslaw Pasternak](https://profiles.imperial.ac.uk/j.pasternak) and [Dr Martin Archer](https://profiles.imperial.ac.uk/m.archer).
+**Scope: a five-week mini-project.** This is short assessed coursework, not a thesis or a
+full research project. I spent about five weeks on it, alongside the rest of the taught
+course; please read it in that light.
+
+Set for Research Computing Skills for Physicists, Imperial Masters in Physics, 2024–25:
+numerical physics in Mathematica. The course was run by
+[Dr Jaroslaw Pasternak](https://profiles.imperial.ac.uk/j.pasternak) and
+[Dr Martin Archer](https://profiles.imperial.ac.uk/m.archer).
 
 ## Quantum Waves in Motion
 

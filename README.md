@@ -41,13 +41,15 @@ high-energy physics at Imperial, working on neutrinos with
 - Neutrino masses and oscillations
 - Beyond the Standard Model: the Higgs sector and dark matter
 
-### [💻 Research Computing Skills for Physicists](research-computing-skills)
+### [💻 Computational Physics Mini-Project](comp-phys-mini-project)
 
 Numerical physics in Mathematica. Contains my mini-project,
 Quantum Waves in Motion: a finite-difference time-domain solver for the
 time-dependent Schrödinger equation, with animations of wave-packet dispersion,
 reflection and tunnelling across four potentials. Awarded the highest grade by [Dr Jaroslaw Pasternak](https://profiles.imperial.ac.uk/j.pasternak).
-It also showcases the Runge-Kutta method.
+It also showcases the Runge-Kutta method. This is a five-week mini-project rather than a
+full research project.
+
 ---
 
 ## 🗂 Layout
