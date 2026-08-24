@@ -1,12 +1,14 @@
 # 🎓 Imperial Physics Notes
 
-My lecture notes and computational projects from my Master's in Physics at
-[Imperial College London](https://www.imperial.ac.uk/physics/) (2024–2025).
+My lecture notes and computational projects from my Master's in Physics (2024–2025) at
+[Imperial College London](https://www.imperial.ac.uk/physics/).
 One folder per module. Everything here is my own work.
 
 I am [Eugene (Yoogeun) Song](https://www.linkedin.com/in/yoogeunsong), now a PhD researcher in
-high-energy physics at Imperial, working on neutrinos with
+high-energy physics at Imperial (from 2026 onwards), working on neutrinos with
 [DUNE](https://www.dunescience.org/) and [NOvA](https://novaexperiment.fnal.gov/).
+
+For more details, see the **Research** section of my [website](https://yoogeunsong.com/projects/#Particle%20Physics).
 
 ---
 
