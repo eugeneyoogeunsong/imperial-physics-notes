@@ -8,6 +8,7 @@ Imperial Masters in Physics, 2024–25: numerical physics in Mathematica. The co
 [Dr Jaroslaw Pasternak](https://profiles.imperial.ac.uk/j.pasternak) and
 [Dr Martin Archer](https://profiles.imperial.ac.uk/m.archer).
 
+
 I am [Eugene (Yoogeun) Song](https://www.linkedin.com/in/yoogeunsong), now a PhD researcher in
 high-energy physics at Imperial (from 2026 onwards), working on neutrinos with
 [DUNE](https://www.dunescience.org/) and [NOvA](https://novaexperiment.fnal.gov/).
