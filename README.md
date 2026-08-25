@@ -82,5 +82,6 @@ open an issue or a pull request; corrections are genuinely welcome.
 Released under the [MIT Licence](LICENSE). Use them, fork them, correct them.
 Attribution is appreciated but not required.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="yoogeunsong" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/yoogeunsong?trk=profile-badge">Eugene (Yoogeun) Song</a></div>
-              
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eugene%20(Yoogeun)%20Song-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoogeunsong)

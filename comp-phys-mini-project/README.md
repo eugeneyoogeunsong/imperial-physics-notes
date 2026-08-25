@@ -14,10 +14,6 @@ high-energy physics at Imperial (from 2026 onwards), working on neutrinos with
 [DUNE](https://www.dunescience.org/) and [NOvA](https://novaexperiment.fnal.gov/).
 
 For more details, see the **Projects** section of my [website](https://yoogeunsong.com/projects/#Particle%20Physics).
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="yoogeunsong" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/yoogeunsong?trk=profile-badge">Eugene (Yoogeun) Song</a></div>
-              
-
 ## Quantum Waves in Motion
 
 A finite-difference time-domain solver for the time-dependent Schrödinger
@@ -31,3 +27,7 @@ reflection and tunnelling. Awarded the highest grade.
 
 Open the notebook in Mathematica and evaluate top to bottom; the animations
 regenerate from the solver rather than being pre-baked.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eugene%20(Yoogeun)%20Song-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoogeunsong)

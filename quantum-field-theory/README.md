@@ -13,3 +13,7 @@ This course was run by [Prof Toby Wiseman](https://profiles.imperial.ac.uk/t.wis
 ## Contents
 
 - `qft-lecture-notes.pdf` - my handwritten notes for the course (138 pages).
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eugene%20(Yoogeun)%20Song-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoogeunsong)

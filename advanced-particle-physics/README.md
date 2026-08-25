@@ -22,3 +22,7 @@ For more details, see the **Projects** section of my [website](https://yoogeunso
 ## Contents
 
 - `app-lecture-notes.pdf` - my handwritten notes for the course (94 pages).
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eugene%20(Yoogeun)%20Song-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoogeunsong)
