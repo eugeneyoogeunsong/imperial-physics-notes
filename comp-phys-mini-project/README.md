@@ -13,7 +13,7 @@ I am [Eugene (Yoogeun) Song](https://www.linkedin.com/in/yoogeunsong), now a PhD
 high-energy physics at Imperial (from 2026 onwards), working on neutrinos with
 [DUNE](https://www.dunescience.org/) and [NOvA](https://novaexperiment.fnal.gov/).
 
-For more details, see the **Projects** section of my [website](https://yoogeunsong.com/projects/#Particle%20Physics).
+For more details about my recent projects, see the **Projects** section of my [website](https://yoogeunsong.com/projects/#Particle%20Physics).
 ## Quantum Waves in Motion
 
 A finite-difference time-domain solver for the time-dependent Schrödinger
