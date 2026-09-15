@@ -11,7 +11,7 @@ Cell[CellGroupData[{
 Cell[TextData[StyleBox["Quantum Waves in Motion: Numerical Modeling of the Time-Dependent Schr\[ODoubleDot]dinger Equation",
  FontSize->48]], "Title"],
 Cell["A numerical solution of the Time-Dependent Schr\[ODoubleDot]dinger Equation using a finite-domain time-difference method", "Subtitle"],
-Cell[TextData[StyleBox["Written by Yoogeun Song. This mini-project was conducted from March 11 to April 1, 2025; the notebook was revised and corrected in September 2026.",
+Cell[TextData[StyleBox["Written by Yoogeun Song. This mini-project was conducted from March 11 to April 1, 2025.",
  FontSize->24,
  FontWeight->"Bold"]], "Subtitle"],
 Cell[" ", "Text",
@@ -158,7 +158,7 @@ Cell[TextData[{
 Cell[TextData[{
  StyleBox["Watch-face cells",
   FontWeight->"Bold"],
- " mark the slower steps: the time-evolution runs, the plot generation and the animation exports. With the vectorised update in Chapter 2 these take seconds to a couple of minutes each - the explicit grid loops in the first version of this notebook needed up to half an hour."
+ " mark the slower steps: the time-evolution runs, the plot generation and the animation exports. Thanks to the vectorised update in Chapter 2 they take seconds to a couple of minutes each."
 }], "Text",
  CellDingbat->"\[WatchIcon]",
  FontSize->16,
@@ -448,7 +448,7 @@ Cell[TextData[{
  " per step, combined for a global error of ",
  StyleBox["O(\[CapitalDelta]t^4)",
   FontWeight->"Bold"],
- ". The first draft of this notebook shipped a broken RK4: the derivative signs did not match the Euler update, dt was applied twice (once inside c1 and c2, then again when the stages were combined), the four snapshot lists were appended at different rates so they came out different lengths, and a helper function shadowed the protected symbol N. All four problems are fixed below: the k's are per-step increments (c1 and c2 already contain dt) combined in the standard increment form, and the snapshot bookkeeping now matches timeEvolutionEuler exactly."
+ ". A few traps are worth knowing about when writing an RK4 for this scheme: the derivative signs have to match the Euler update, dt must not be applied twice (it already lives inside c1 and c2), and all four snapshot lists have to be appended inside the same If or they come out different lengths. The implementation below treats the k's as per-step increments, combined in the standard increment form, and its snapshot bookkeeping matches timeEvolutionEuler exactly, so the two integrators are interchangeable."
 }], "Text",
  FontSize->16],
 Cell[TextData[{
@@ -799,7 +799,7 @@ Cell[TextData[{
  " scheme."
 }], "Text",
  FontSize->16],
-Cell["(*Sample the potential named by the \"potential\" parameter above (the\nfirst draft hard-coded \"free\" here, silently ignoring that setting)*)\npotentialUser = choosePotential[potential];", "Input",
+Cell["(*Sample the potential named by the \"potential\" parameter above*)\npotentialUser = choosePotential[potential];", "Input",
  FontSize->14,
  Background->RGBColor[1, 0.9, 0.8]],
 Cell["(*Evolve with the staggered explicit scheme*)\nuserResult = timeEvolutionEuler[R0, I0, potentialUser];", "Input",
