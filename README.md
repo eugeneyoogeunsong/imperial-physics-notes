@@ -1,12 +1,13 @@
-# 🎓 Imperial Physics Notes
+# 🎓 Imperial Physics Summaries
 
-My lecture notes and computational projects from my Master's in Physics (2024–2025) at
+My lecture summaries and computational projects from my Master's in Physics (2024–2025) at
 [Imperial College London](https://www.imperial.ac.uk/physics/).
 One folder per module. Everything here is my own work.
 
-I am [Eugene (Yoogeun) Song](https://www.linkedin.com/in/yoogeunsong), now a PhD researcher in
-high-energy physics at Imperial (from 2026 onwards), working on neutrinos with
-[DUNE](https://www.dunescience.org/) and [NOvA](https://novaexperiment.fnal.gov/).
+> [!IMPORTANT]
+> **Where I am now: I am a PhD researcher in high-energy physics at [Imperial College London](https://www.imperial.ac.uk/physics/), from 2026 onwards**, working on neutrinos with [DUNE](https://www.dunescience.org/) and [NOvA](https://novaexperiment.fnal.gov/).
+>
+> **Everything in this repository is earlier work.** These are my **summaries**, handwritten during my **Master's in Physics at Imperial in the 2024-25 academic year**. They are a record of what I studied then, not of what I am doing now.
 
 For more details, see the **Research** section of my [website](https://yoogeunsong.com/projects/#Particle%20Physics).
 
@@ -59,7 +60,7 @@ full research project.
 ```
 <module>/
   README.md          what the module covered, and what is in the folder
-  *.pdf              handwritten lecture notes
+  *.pdf              handwritten lecture summaries
   *.nb / *.m         Mathematica source
 ```
 
@@ -74,7 +75,7 @@ department.
 
 ## 🤝 Contributing
 
-These are student notes, so they will contain mistakes. If you spot one, please
+These are student summaries, so they will contain mistakes. If you spot one, please
 open an issue or a pull request; corrections are genuinely welcome.
 
 ## 📜 Licence
