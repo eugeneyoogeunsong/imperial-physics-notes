@@ -44,6 +44,37 @@ For more details, see the **Research** section of my [website](https://yoogeunso
 - Neutrino masses and oscillations
 - Beyond the Standard Model: the Higgs sector and dark matter
 
+### [🌌 General Relativity](general-relativity)
+
+98 pages of handwritten summaries covering:
+
+- The equivalence principle, and the metric on a general manifold
+- Christoffel symbols, covariant differentiation, parallel transport and geodesics
+- The Riemann and Einstein tensors, and the Bianchi identities
+- The Einstein–Hilbert action, and the field equations derived variationally
+- Schwarzschild spacetime, horizons and gravitational redshift
+- Cosmological solutions, linearised gravity and gravitational waves
+
+### [🪐 Advanced Classical Physics](advanced-classical-physics)
+
+99 pages of handwritten summaries covering:
+
+- Lagrangian mechanics: the action principle, constraints and equilibrium
+- Small oscillations, rigid-body dynamics and rotating frames
+- Hamiltonian mechanics: Poisson brackets and canonical transformations
+- Symmetries, Noether's theorem, active versus passive transformations
+- Classical field theory, and Maxwell's equations as a U(1) gauge theory
+
+### [📐 Mathematical Methods for Physicists](mathematical-methods-for-physicists)
+
+107 pages of handwritten summaries covering:
+
+- Vector spaces, tensors and coordinate transformations
+- Sturm–Liouville theory, eigenfunction expansions and Green's functions
+- Integral transforms: Fourier and Laplace
+- Complex analysis: Cauchy–Riemann, Cauchy's theorem, residues, contour integration
+- Variational methods, including the variational principle for energy eigenvalues
+
 ### [💻 Computational Physics Mini-Project](comp-phys-mini-project)
 
 Numerical physics in Mathematica. Contains my mini-project,
